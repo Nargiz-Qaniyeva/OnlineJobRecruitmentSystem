@@ -1,0 +1,336 @@
+﻿@model HomeVM
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- MAIN START -->
+<main>
+
+	@if (TempData["Fail"]!=null)
+   {
+		<div class="alert alert-danger" id="failAlert" role="alert">
+		This is a danger alert—check it out!
+		@TempData["Fail"]
+	</div>
+   }
+
+	
+
+	<!-- Largets Job Site In The World Layout -->
+	<section id="large-site">
+		<div class="container">
+			<div class="intro-wrapper">
+				<div class="row">
+					<div class="col-lg-6  col-md-12 mb-6">
+						<div class="intro-content">
+							<p class="mb-4 mt-5 pt-5">
+								@Html.Raw(Model.pageIntro.SubTitle)
+							</p>
+							<h1 class="mb-5">@Model.pageIntro.Title</h1>
+
+
+						</div>
+					</div>
+
+					<div class="col-lg-6  col-md-12 mb-6">
+						<div class="intro-image">
+							<img src="~/assets/image/home/undraw_work_time_lhoj.svg" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Services section of the site -->
+	<section id="services">
+		<div class="second-layout">
+			<div class="container">
+				<div class="row row-cols-1 row-cols-md-4 g-3">
+					@foreach (var item in Model.services)
+					{
+						<div class="col reveal">
+							<div class="card h-100">
+								<div class="icon">
+									<i class="fa-solid fa-address-card"></i>
+								</div>
+								<div class="card-body">
+									<h5 class="card-title">@item.Title</h5>
+									<p class="card-text">@item.Description</p>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+
+			</div>
+		</div>
+	</section>
+
+
+	<!-- Work on specialization of the site -->
+	<section id="specialism">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-12 mb-6">
+					<div class="text-block p-5">
+						<div class="icon">
+							<i class="fa-solid fa-magnifying-glass"></i>
+						</div>
+						<div class="content">
+							<span class="subtitle">@Model.specializm.SubTitle</span>
+							<h2>@Model.specializm.Title</h2>
+							<p>@Model.specializm.Description</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<!-- Existing jobs of the site -->
+	<section id="available-job" class="reveal bg-light">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<div class="recently-text reveal">
+						<span class="jobs">Recently Added Jobs </span>
+						<h2>Hot Jobs</h2>
+					</div>
+					<div class="development">
+						<div class="row">
+							@foreach (var item in Model.Posts)
+							{
+								<div class="col-lg-9 col-md-12 col-mb-3">
+									<div class="job-dev reveal mb-4 mb-md-0">
+										<div class="job-item py-4 d-block d-lg-flex align-items-center">
+											<div class="one-third ">
+												<div class="job-post-header d-flex ">
+													<h2>
+														<span>
+															@item.Title
+														</span>
+													</h2>
+													<div class="work-time">
+														<span class="bg-primary text-white badge py-2 px-3">
+															@foreach (var items in item.PosterTimes)
+																{
+																	@items.Timers.Name
+																}
+															
+													</div>
+												</div>
+												<div class="job-post-body d-flex">
+													<div class="social">
+														<span class="layers-icon"><i class="fa-solid fa-layer-group"></i></span>
+														<a href="">
+															@item.Company
+														</a>
+													</div>
+													<div class="icon-location">
+														<span class="location-icon"><i class="fa-solid fa-location-crosshairs"></i></span>
+														<span class="city">@item.Location</span>
+														 
+													</div>
+												</div>
+											</div>
+											<div class="one-fourth d-flex">
+												<div class="icon-heart">
+													<a asp-controller="basket" asp-action="addbasket" asp-route-id="@item.Id" class="icon"><i class="fa-solid fa-heart"></i></a>
+												</div>
+												<div class="apply">
+													<a asp-controller="jobsingle" asp-action="index" class="btn btn-primary py-2">Apply</a>
+												</div>
+											</div>
+
+										</div>
+									</div>
+								</div>
+							}
+
+							
+							   	
+						   
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="recently-text reveal">
+						<span class="jobs">Recruitment agencies</span>
+						<h2>Top Recruitments</h2>
+					</div>
+					@foreach (var item in Model.recruitmentAgencies)
+					{
+						<div class="box reveal">
+							<div class="border">
+								<a href="">
+									<img src="./assets/image/home/@item.Image" alt="">
+								</a>
+								<div class="text ">
+									<h3> <a href="">@Html.Raw(item.Company)</a> </h3>
+									<p>
+										<span class="number">@item.Number</span>
+										<span class="open">@item.Open</span>
+									</p>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Statistics section of the site -->
+	<section id="job-statistics">
+		<div class="statistic">
+			<div class="container">
+				<div class="row row-cols-1 row-cols-md-4 g-3">
+					@foreach (var item in Model.jobStatistics)
+					{
+						<div class="col reveal">
+							<div class="card">
+								<div class="card-icon">
+									<i class="fa-solid fa-user"></i>
+								</div>
+								<div class="card-body">
+									<h3 class="counter" data-target="435000">@item.Title</h3>
+									<span>@item.SubTitle</span>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Testimonial section of the site -->
+	<section class="slider_client" id="slider_client">
+		<div class="slider">
+			<div class="container">
+				<div class="swipper-title reveal">
+					<span class="subtitle">Testimonial</span>
+					<h2>Happy Clients</h2>
+				</div>
+				<div class="swiper card_client">
+					<div class="swiper-wrapper">
+						@foreach (var item in Model.clientSliders)
+						{
+							<div class="swiper-slide reveal">
+								<div class="img_box">
+									<img src="~/assets/image/home/@item.Image" alt="">
+									<span class="quote d-flex">
+										<i class="fa-solid fa-quote-left"></i>
+									</span>
+								</div>
+
+								<div class="swipper-text">
+									<p class="mb-4">@item.Desc</p>
+									<p class="name">@item.Name</p>
+									<span class="position">@item.Position</span>
+								</div>
+							</div>
+						}
+
+
+					</div>
+					<div class="swiper-pagination"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Candidates section of the site-->
+	<section class="slider_container" id="slider_container">
+		<div class="slider">
+			<div class="container">
+				<div class="swipper-title reveal">
+					<span class="subtitle">Candidates</span>
+					<h2>Latest Candidates</h2>
+				</div>
+				<div class="swiper card_slider">
+					<div class="swiper-wrapper">
+						@foreach (var item in Model.candidates)
+						{
+							<div class="swiper-slide reveal">
+								<div class="img_box">
+									<img src="~/assets/image/home/@item.Image" alt="">
+								</div>
+								<div class="swipper-text">
+									<h2>@item.Title</h2>
+									<span class="position">@item.Subtitle</span>
+								</div>
+							</div>
+						}
+
+					</div>
+					<div class="swiper-pagination"></div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+	<!-- Blog section of the site-->
+	<section id="blog">
+		<div class="blog-part">
+			<div class="content-title reveal">
+				<span class="subtitle">@Model.blogTitle.Subtitle</span>
+				<h2>@Html.Raw(Model.blogTitle.Title)</h2>
+			</div>
+			<div class="container">
+				<div class="row">
+					@foreach (var item in Model.blogs)
+					{
+						<div class="col-lg-3 col-md-12 mb-3">
+							<div class="blog-info reveal">
+								<a href="">
+									<img src="~/assets/image/home/@item.Image" alt="">
+								</a>
+								<div class="text">
+									<div class="data d-flex">
+										<div class="date"><a href="">@item.Date</a></div>
+										<div class="admin"><a href="">@item.Admin</a></div>
+										<div class="commit">
+											<a href="">
+												<i class="fa-solid fa-comment-dots"></i>
+												@item.Commit
+											</a>
+										</div>
+									</div>
+									<p>
+										<a href="">
+											@item.Desc
+										</a>
+									<p>
+								</div>
+							</div>
+						</div>
+					}
+
+				</div>
+			</div>
+
+		</div>
+	</section>
+
+	<!-- Subscribe section of the site-->
+	@await Component.InvokeAsync("Subscribe")
+</main>
+
+<!-- MAIN END -->
+
+@section Scripts{
+	<script>
+		let alertDiv=document.getElementById("#failAlert");
+		setTimeout(function(){
+			alertDiv.remove()
+		},3000)
+</script>
+}

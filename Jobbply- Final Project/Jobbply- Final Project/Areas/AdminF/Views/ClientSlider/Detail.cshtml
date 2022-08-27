@@ -1,0 +1,11 @@
+﻿@model ClientSlider
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>@Model.Name</h1>
+<h4>@Model.Position</h4>
+<p>@Model.Desc</p>
+<a class="btn btn-dark" asp-controller="clientslider" asp-action="index">Back</a>
+

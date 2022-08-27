@@ -1,0 +1,14 @@
+﻿@model JobInfoVM
+
+@foreach (var item in Model.jobInfos)
+                   {
+                       <div class="col">
+                      <div class="card h-100" >
+                        <img src="assets/image/category/@item.Image" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">@item.Title</h5>
+                          <p class="card-text">@item.Desc</p>
+                        </div>
+                      </div>
+                    </div>
+                   }

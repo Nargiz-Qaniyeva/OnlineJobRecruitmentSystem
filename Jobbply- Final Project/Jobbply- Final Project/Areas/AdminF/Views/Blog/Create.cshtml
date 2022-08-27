@@ -1,0 +1,44 @@
+﻿@model BlogPage
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group" >
+                      <label asp-for="Photo"></label>
+                      <input asp-for="Photo" class="form-control"  placeholder="Photo" accept="image/*">
+                      <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="Date">Date</label>
+                      <input asp-for="Date" class="form-control" placeholder="Date">
+                      <span asp-validation-for="Date" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="Admin">Admin</label>
+                      <input asp-for="Admin" class="form-control" placeholder="Location">
+                      <span asp-validation-for="Admin" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="Commit">Commit</label>
+                      <input asp-for="Commit" class="form-control" placeholder="Date">
+                      <span asp-validation-for="Commit" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="Desc">Description</label>
+                      <input asp-for="Desc" class="form-control" placeholder="Location">
+                      <span asp-validation-for="Desc" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Create</button>
+                  </form>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_Validation"/>
+    }
+
+

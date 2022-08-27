@@ -1,0 +1,92 @@
+﻿@model  SendMessage
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+ <!-- MAIN START -->
+
+    <main>
+       <!-- Small introductory part -->
+      <section id="contact">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-md-12 mb-6">
+              <div class="text-block p-5">
+                <div class="content">
+                  <span class="subtitle">@ViewBag.About.Subtitle <i class="fa-solid fa-angle-right"></i></span>
+                  <span class="title"> @ViewBag.About.Title</span>
+                  <h1>@ViewBag.About.Desc</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+      </section>
+      <!-- Contact alternatives and a map -->
+      <section id="information">
+        <div class="contact bg-light">
+          <div class="container">
+            <div class="cont-info">
+              <div class="title">
+                  <h2>@ViewBag.contact.Title</h2>
+              </div>
+              <div class="info ">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> @Html.Raw(ViewBag.contact.Location)</p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Phone:</span> <a href=""> @ViewBag.contact.Number</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Email:</span> <a href=""> @ViewBag.contact.Email</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Website:</span> <a href=""> @ViewBag.contact.Site</a></p>
+                    </div>
+                </div>
+              </div>
+              
+             
+          </div>
+        </div>
+      </section>
+      <div class="containr">
+          <div class="container">
+    <div class="row">
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                   
+                    <div class="form-group">
+                      <label asp-for="Name">Name</label>
+                      <input asp-for="Name" class="form-control" placeholder="Name">
+                      <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="Subject">Subject</label>
+                      <input asp-for="Subject" class="form-control" placeholder="Subject">
+                      <span asp-validation-for="Subject" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="Email">Email</label>
+                      <input asp-for="Email" class="form-control" placeholder="Email">
+                      <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="Message">Message</label>
+                      <input asp-for="Message" class="form-control" placeholder="Message">
+                      <span asp-validation-for="Message" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Create</button>
+                  </form>
+    </div>
+
+      </div>
+      
+    </main>
+
+    <!-- MAIN END -->
+

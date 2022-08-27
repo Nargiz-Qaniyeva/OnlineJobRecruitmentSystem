@@ -1,0 +1,92 @@
+﻿@model Bio
+<footer>
+      <section id="index-footer" >
+        <div class="end-layout">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-3 col-md-12 mb-3">
+                <div class="title">
+                  <h3>About</h3>
+                </div>
+                <div class="text">
+                  <p>Far far away, behind the word mountains, 
+                    far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                </div>
+                <div class="about-icon">
+                  <ul>
+                    <li class="reveal"><a href="@Model.Twitter">
+                      <span><i class="fa-brands fa-twitter"></i></span>
+                    </a></li>
+                    <li class="reveal"><a href="@Model.Facebook">
+                      <span><i class="fa-brands fa-facebook-f"></i></span>
+                    </a></li>
+                    <li class="reveal"><a href="@Model.Instagram">
+                      <span><i class="fa-brands fa-instagram"></i></span>
+                    </a></li>
+                  </ul>
+                  
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 mb-3">
+                <div class="title">
+                  <h3>Employers</h3>
+                </div>
+                <div class="list">
+                  <ul>
+                    <li><a asp-controller="about" asp-action="index">How it works</a></li>
+                    <li><a asp-controller="account" asp-action="register">Register</a></li>
+                    <li><a asp-controller="postjob" asp-action="index">Post a Job</a></li>
+                    <li><a asp-controller="canditates" asp-action="index">Advance Skill Search</a></li>
+                    <li><a asp-controller="jobsingle" asp-action="index">Recruiting Service</a></li>
+                    <li><a asp-controller="blog" asp-action="index">Blog</a></li>
+                    <li><a asp-controller="blogother" asp-action="index">FAQ</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 mb-3">
+                <div class="title">
+                  <h3>Workers</h3>
+                </div>
+                <div class="list">
+                  <ul>
+                    <li><a asp-controller="canditates" asp-action="index">How it works</a></li>
+                    <li><a asp-controller="account" asp-action="register">Register</a></li>
+                    <li><a asp-controller="jobsingle" asp-action="index">Post Your Skills</a></li>
+                    <li><a asp-controller="blog" asp-action="index">Job Search </a></li>
+                    <li><a asp-controller="Wantjobs" asp-action="index">Emploer Search </a></li> 
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-12 mb-3">
+                <div class="title">
+                  <h3>Have a Questions?</h3>
+                </div>
+                <div class="list">
+                  <ul>
+                    <li>
+                      <span class="icon"><i class="fa-solid fa-location-dot"></i></span> 
+                      <span class="address">203 Fake St. Mountain View, San Francisco, California, USA</span>
+                    </li>
+                    <li><a href=""><i class="fa-solid fa-phone"></i></a>
+                      <a href="@Model.Phone"> +2 392 3929 210 </a>
+                    </li>
+                    <li><a href=""><i class="fa-solid fa-envelope"></i></a>
+                      <a href="@Model.Email"> info@yourdomain.com</a></li>
+                  </ul>
+                </div>
+                  
+              </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-lg-7 col-md-12 mb-7">
+                <div class="copyright">
+                  <p>Copyright ©2022 All rights reserved | This template is made with 
+                    <i class="fa-solid fa-heart"></i> by <a href="@Model.Author">Colorlib</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>

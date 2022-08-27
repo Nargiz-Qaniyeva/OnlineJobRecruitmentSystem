@@ -1,0 +1,27 @@
+﻿@model Subscribe
+
+ <section id="subcribe">
+          <div class="container">
+            <div class="row ">
+              <div class="col-lg-7 col-md-12 mb-7">
+                <h2 class="reveal">@Model.Title</h2>
+                <div class="text reveal">
+                  <p>@Model.Description</p>
+                </div>
+              </div>
+              <div class="col-lg-7 col-md-10 mb-3">
+                <form class="email-form reveal">
+                  <div class="mb-3 d-flex">
+                    <input type="email" 
+                    class="form-control " 
+                    id="exampleInputEmail1" 
+                    aria-describedby="emailHelp"
+                    placeholder="Enter email address">
+                    <button id="b3" type="submit" class="btn btn-danger">@Model.Button</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+

@@ -1,0 +1,386 @@
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.exe
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.deps.json
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.runtimeconfig.json
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.pdb
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.Views.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.Views.pdb
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.AssemblyInfo.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorAssemblyInfo.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorAssemblyInfo.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Jobbply- Final Project.StaticWebAssets.Manifest.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.TagHelpers.input.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.TagHelpers.output.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorCoreGenerate.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Basket.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\BlogOther\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Canditates\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Subscribe\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TopCategoryPartial.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\TopCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\WantJobs\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorTargetAssemblyInfo.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorTargetAssemblyInfo.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.Views.pdb
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.CopyComplete
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.pdb
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.genruntimeconfig.cache
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\JobSingle\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shortlist\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\PostJob\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\PostJob\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\TopCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.exe
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.deps.json
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.runtimeconfig.json
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.pdb
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.Views.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Jobbply- Final Project.Views.pdb
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.AssemblyInfo.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorAssemblyInfo.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorAssemblyInfo.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\staticwebassets\Jobbply- Final Project.StaticWebAssets.Manifest.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.TagHelpers.input.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.TagHelpers.output.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorCoreGenerate.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\AvailableJobs\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Blog\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\CandidatesSlider\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Shared\_Validation.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Time\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\TopCategory\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Delete.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\WantJobsCategory\Update.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewImports.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\_ViewStart.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Basket.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\BlogOther\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Canditates\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\JobSingle\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\PostJob\Create.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\PostJob\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Subscribe\Default.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Search.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TopCategoryPartial.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\Shortlist\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\TopCategory\Detail.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\TopCategory\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\WantJobs\Index.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorTargetAssemblyInfo.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.RazorTargetAssemblyInfo.cs
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.Views.pdb
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.csproj.CopyComplete
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.dll
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.pdb
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.genruntimeconfig.cache

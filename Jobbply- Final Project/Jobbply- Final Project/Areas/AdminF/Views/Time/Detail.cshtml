@@ -1,0 +1,24 @@
+﻿@model Timers
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr> 
+                    <th scope="col">Name</th> 
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                     <td>@Model.Name</td> 
+                    <td>
+                        <a class="btn btn-success" asp-area="Adminf" asp-controller="time" asp-action="index" >Back</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

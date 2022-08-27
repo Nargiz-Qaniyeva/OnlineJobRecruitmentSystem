@@ -1,0 +1,41 @@
+﻿@model AvailableJob
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    
+                    <div class="form-group">
+                      <label asp-for="Title">Name</label>
+                      <input asp-for="Title" class="form-control" placeholder="Name">
+                      <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="WorkTime">Name</label>
+                      <input asp-for="WorkTime" class="form-control" placeholder="WorkTime">
+                      <span asp-validation-for="WorkTime" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                      <label asp-for="Social">Name</label>
+                      <input asp-for="Social" class="form-control" placeholder="Social">
+                      <span asp-validation-for="Social" class="text-danger"></span>
+                    </div>
+                     <div class="form-group">
+                      <label asp-for="Location">Location</label>
+                      <input asp-for="Location" class="form-control" placeholder="Location">
+                      <span asp-validation-for="Location" class="text-danger"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Create</button>
+                  </form>
+    </div>
+</div>
+
+@section Scripts{
+    <partial name="_Validation"/>
+    }
+
+

@@ -1,0 +1,18 @@
+﻿@model JobInfo
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container pt-xl-5">
+    <div class="py-lg-4 pt-lg-5">
+    <div class="row pt-lg-5">
+        <div class="col pt-lg-5">
+
+        <img src="~/assets/image/category/@Model.Image" />
+        <h2>@Model.Title</h2>
+        <p>@Model.Desc</p>
+        </div>
+    </div>
+    </div>
+</div>
+

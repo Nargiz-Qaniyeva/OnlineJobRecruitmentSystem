@@ -1,0 +1,13 @@
+﻿@model AvailableJob
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>@Model.Title</h1>
+<br />
+<h3>WorkTime:   @Model.WorkTime</h3>
+<h5>Social:   @Model.Social</h5>
+<p>Location:   @Model.Location</p>
+<a class="btn btn-dark" asp-controller="availablejobs" asp-action="index">Back</a>
+

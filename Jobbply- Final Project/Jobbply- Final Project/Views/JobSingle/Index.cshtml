@@ -1,0 +1,58 @@
+﻿@model JobSingleVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <!-- MAIN START -->
+
+     <main>
+        <!-- Small introductory part -->
+        <section id="want">
+            <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 mb-6">
+                <div class="text-block p-5">
+                    <div class="content">
+                    <span class="subtitle">@Model.about.Subtitle <i class="fa-solid fa-angle-right"></i></span>
+                    <span class="title">@Model.about.Title</span>
+                    <h1>@Model.about.Desc</h1>
+                    
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <section id="job-single">
+            <div class="container">
+                <div class="content">
+                  <h2>@Model.getTouch.Title</h2>
+                  <p>@Model.getTouch.Desc</p>
+                </div>
+                  <form method="post">
+                    <div class="mb-3">
+                      <label for="exampleInputEmail1" class="form-label">First Name: *</label>
+                      <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleInputPassword1" class="form-label">Last Name: *</label>
+                      <input type="text" class="form-control" id="exampleInputPassword1">
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleInputPassword1" class="form-label">E-mail: *</label>
+                      <input type="email" class="form-control" id="exampleInputPassword1" placeholder="somebody@example.com">
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleInputPassword1" class="form-label">Phone number: *</label>
+                      <input type="tel" class="form-control" id="exampleInputPassword1" placeholder="+44 xx xxxxxxxx">
+                    </div>
+                    <button type="submit" class="btn btn-primary py-2 px-5">Submit</button>
+                  </form>
+            </div>
+        </section>
+     </main>
+
+      <!-- MAIN END -->
+

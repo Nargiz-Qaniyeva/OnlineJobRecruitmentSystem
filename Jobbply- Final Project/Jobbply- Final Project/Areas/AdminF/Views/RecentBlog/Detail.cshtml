@@ -1,0 +1,14 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>
+    <img src="~/assets/image/home/@Model.Image" />
+    </h2>
+<h3>@Model.Date</h3>
+<h4>@Model.Admin</h4>
+<h5>@Model.Commit</h5>
+<p>@Model.Desc</p>
+<a class="btn btn-dark" asp-controller="RecentBlog" asp-action="index">Back</a>
+

@@ -1,0 +1,100 @@
+#index-footer{
+    .end-layout{
+        background-color: black;
+        padding-top: 120px;
+        padding-bottom: 150px;
+
+        .title{
+            color: white;
+            padding-bottom: 40px;
+            h3{
+                font-size: 20px;
+                font-weight: 700;
+            }
+        }
+        .text{
+            color: #9999;
+        }
+        i{
+            font-size: 20px;
+        }
+        .about-icon{
+            ul{
+                li{
+                   display: inline-block;
+                    list-style: none;
+                    a{
+                      color: #ffff;
+                        span{
+                           //position: absolute;
+                           //font-size: 26px;
+                           width: 55px;
+                           background-color: rgba(255, 255, 255, 0.05);
+                           height: 45px;
+                           border-radius: 50%;
+                           text-align: center;
+                           line-height: 80px;
+                           vertical-align: middle;
+                           padding: 20px;
+                            i{
+                              margin-bottom: 25px;
+                                // .fa-brands{
+                                //     //padding-top: 50px;
+                                //     width: 50px;
+                                //     background-color: rgba(255, 255, 255, 0.05);
+                                //     height: 50px;
+                                //     border-radius: 50%;
+                                //     text-align: center;
+                                //     line-height: 80px;
+                                //     vertical-align: middle;
+                                //     padding-bottom: 50px;
+                                //    }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+       
+        .list{
+            ul{
+                li{
+                    list-style: none;
+                    padding-top: 20px;
+                    display: flex;
+
+                    a{
+                        text-decoration: none;
+                        color: rgba(255, 255, 255, 0.8);
+                        .fa-solid{
+                            padding-right: 20px  ;
+                        }
+                    }
+                    .icon{
+                        color:rgba(255, 255, 255, 0.8) ;
+                        width: 40px;
+                        padding-top: 2px;
+                    }
+                    .address{
+                        color:rgba(255, 255, 255, 0.7) ;
+                        font-size: 18px;
+                        padding-left: 18px;
+                    }
+                }
+            }
+        }
+
+        .copyright{
+            p{
+                color: #ffff;
+                i{
+                    color: brown;
+                }
+                a{
+                    text-decoration: none;
+                    color: #ffff;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+﻿@model JobInfo
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+<img src="~/assets/image/category/@Model.Image" />
+<h2>@Model.Title</h2>
+<p>@Model.Desc</p>
+<a class="btn btn-dark" asp-controller="topcategory" asp-action="index">Back</a>
+

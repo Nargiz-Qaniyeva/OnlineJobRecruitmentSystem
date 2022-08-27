@@ -1,0 +1,60 @@
+﻿@model ShortlistVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+  <!-- MAIN START -->
+
+   <main>
+    <!-- Small introductory part -->
+   <section id="canditates">
+     <div class="container">
+       <div class="row">
+         <div class="col-lg-6 col-md-12 mb-6">
+           <div class="text-block p-5">
+             <div class="content">
+               <span class="subtitle">@Model.about.Subtitle <i class="fa-solid fa-angle-right"></i></span>
+               <span class="title"> @Model.about.Title</span>
+               <h1>@Model.about.Desc</h1>
+              
+             </div>
+           </div>
+         </div>
+       </div>
+      </div>
+   </section>
+
+   <section id="shortlist">
+    <div class="shortlist-layer bg-light">
+      <div class="container">
+        <div class="row d-flex">
+          @foreach (var item in Model.shortlists)
+         {
+             <div class="col-lg-6 col-md-12 col-mb-6">
+            <div class="team ">
+              <img src="./assets/image/canditates/@item.Image" alt="">
+                      <div class="text">
+                        <h3 class="name">@item.Name</h3>
+                        <h5 class="position">@item.Position</h5>
+                        <h5 class="graduate">@item.Graduate</h5>
+                        <h6 class="awards">@item.Awards</h6>
+                        <p>@item.Desc</p>
+                        <h6 class="activity">@item.Activity</h6>
+                        <h6 class="city">@item.City</h6>
+                        
+                      </div>
+            </div>
+
+          </div>
+         }
+         
+        </div>
+      </div>
+    </div>
+   </section>
+
+</main>
+
+<!-- MAIN END -->
+

@@ -1,0 +1,56 @@
+﻿@model CategoryVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <!-- MAIN START -->
+  <main>
+     <!-- Small introductory part -->
+     <section id="category">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-md-12 mb-6">
+              <div class="text-block p-5">
+                <div class="content">
+                  <span class="subtitle">@Model.about.Subtitle<i class="fa-solid fa-angle-right"></i></span>
+                  <span class="title"> @Model.about.Title</span>
+                  <h1>@Model.about.Desc</h1>
+                 
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+     </section>
+
+    <section id="categories">
+        <div class="top-category">
+            <div class="container">
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    @foreach (var item in Model.categories)
+                   {
+                       <div class="col">
+                      <div class="card h-100">
+                        <img src="assets/image/category/@item.Image" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">@item.Title</h5>
+                          <p class="card-text">@item.Desc</p>
+                        </div>
+                      </div>
+                    </div>
+                   }
+                    
+                  </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+      <!-- Subscribe section of the site-->
+       @await Component.InvokeAsync("Subscribe")
+
+  </main>
+  <!-- MAIN END -->

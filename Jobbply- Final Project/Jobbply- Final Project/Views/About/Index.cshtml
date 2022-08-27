@@ -1,0 +1,110 @@
+﻿@model AboutVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+  <!-- MAIN START -->
+    <main>
+        <!-- Small introductory part -->
+        <section id="about">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-md-12 mb-6">
+              <div class="text-block p-5">
+                <div class="content">
+                  <span class="subtitle">@Model.about.Subtitle <i class="fa-solid fa-angle-right"></i></span>
+                  <span class="title"> @Model.about.Title</span>
+                  <h1>@Model.about.Desc</h1>
+                 
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+        </section>
+
+        <!-- Information about your welcome section of the site -->
+        <section id="welcome">
+            <div class="container">
+                <div class="welcome-img">
+                    <img src="./assets/image/about/@Model.welcome.Image" alt="">
+                </div>
+                <div class="welcome-title">
+                    <h3>@Model.welcome.Title</h3>
+                </div>
+                <div class="welcome-text">
+                    <p>@Model.welcome.Desc1</p>
+                    <p>@Model.welcome.Desc2</p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Statistics section of the site -->
+        <section id="job-statistics">
+          <div class="statistic">
+            <div class="container">
+              <div class="row row-cols-1 row-cols-md-4 g-3">
+                @foreach (var item in Model.jobStatistics)
+               {
+                   <div class="col reveal">
+                  <div class="card">
+                    <div class="card-icon">
+                      <i class="fa-solid fa-user"></i>
+                    </div>
+                    <div class="card-body">
+                      <h3 class="counter" data-target="435000">@item.Title</h3>
+                        <span >@item.SubTitle</span>
+                    </div>
+                  </div>
+                </div>
+               }
+                
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Testimonial section of the site-->
+        <section class="slider_client" id="slider_client">
+          <div class="slider">
+            <div class="container">
+              <div class="swipper-title reveal">
+                <span class="subtitle">Testimonial</span>
+                <h2>Happy Clients</h2>
+              </div>
+              <div class="swiper card_client">
+                <div class="swiper-wrapper">
+                    @foreach (var item in Model.clientSliders)
+                   {
+                       <div class="swiper-slide reveal">
+                     
+                        <div class="img_box" >
+                            <img src="./assets/image/home/@item.Image" alt="">
+                          <span class="quote d-flex">
+                            <i class="fa-solid fa-quote-left"></i>
+                          </span>
+                          </div>
+
+                        <div class="swipper-text">
+                           <p class="mb-4">@item.Desc</p>
+                            <p class="name">@item.Name</p>
+                            <span class="position">@item.Position</span>
+                        </div>
+                    </div>
+                   }
+                  
+              
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Subscribe section of the site-->
+         @await Component.InvokeAsync("Subscribe")
+    </main>
+  <!-- MAIN END -->
+

@@ -1,0 +1,10 @@
+﻿@model Candidates
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/AdminF/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+<p>@Model.Subtitle</p>
+<a class="btn btn-dark" asp-controller="candidates" asp-action="index">Back</a>
+

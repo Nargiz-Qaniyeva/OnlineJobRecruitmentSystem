@@ -1,0 +1,88 @@
+﻿@model  SendMessage
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <!-- MAIN START -->
+
+    <main>
+       <!-- Small introductory part -->
+      <section id="contact">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-md-12 mb-6">
+              <div class="text-block p-5">
+                <div class="content">
+                  <span class="subtitle">@ViewBag.About.Subtitle <i class="fa-solid fa-angle-right"></i></span>
+                  <span class="title"> @ViewBag.About.Title</span>
+                  <h1>@ViewBag.About.Desc</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+      </section>
+      <!-- Contact alternatives and a map -->
+      <section id="information">
+        <div class="contact bg-light">
+          <div class="container">
+            <div class="cont-info">
+              <div class="title">
+                  <h2>@ViewBag.contact.Title</h2>
+              </div>
+              <div class="info ">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> @Html.Raw(ViewBag.contact.Location)</p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Phone:</span> <a href=""> @ViewBag.contact.Number</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Email:</span> <a href=""> @ViewBag.contact.Email</a></p>
+                    </div>
+                    <div class="col-lg-3 col-md-12 mb-3">
+                        <p> <span>Website:</span> <a href=""> @ViewBag.contact.Site</a></p>
+                    </div>
+                </div>
+              </div>
+              
+              <div class="map-form">
+                <div class="row ">
+                  <div class="col-md-6 order-md-last d-flex">
+                    <form class="bg-white p-5 contact-form" method="post">
+                      <div class="form-group">
+                        <input asp-for="Name" class="form-control" placeholder="Your Name">
+                      </div>
+                      <div class="form-group">
+                        <input asp-for="Email" class="form-control" placeholder="Your Email">
+                      </div>
+                      <div class="form-group">
+                        <input asp-for="Subject" class="form-control" placeholder="Subject">
+                      </div>
+                      <div class="form-group">
+                        <textarea  asp-for="Message"  cols="50" rows="7" class="form-control" placeholder="Message"></textarea>
+                      </div>
+                      <div class="form-group">
+                        <button id="b3" type="submit" asp-area="adminf" asp-controller="contact" asp-action="index" value="SendMessage" class="btn  btn-primary py-3 px-5">Send Message</button>
+                      </div>
+                    </form>
+                  </div>
+                  <div class="col-lg-6 col-md-6 mb-6 d-flex ">
+                    <div class="map">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5208330.726650069!2d-76.92236746667011!3d40.71122312487763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1658168981146!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Subscribe section of the site--> 
+       @await Component.InvokeAsync("Subscribe")  
+    </main>
+
+    <!-- MAIN END -->
+

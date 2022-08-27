@@ -1,0 +1,78 @@
+﻿@model BlogOtherVM
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+  <!-- MAIN START -->
+
+    <main>
+        <!-- Small introductory part -->
+        <section id="blog-layout">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-md-12 mb-6">
+                <div class="text-block p-5">
+                  <div class="content">
+                    <span class="subtitle">@Model.blogOtherAbout.Subtitle<i class="fa-solid fa-angle-right"></i></span>
+                    <span class="title">@Model.blogOtherAbout.Title<i class="fa-solid fa-angle-right"></i></span>
+                    <span class="title">@Model.blogOtherAbout.Titlelayout</span>
+                    <h1>@Model.blogOtherAbout.Desc</h1>
+                  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- About the blog and comments section of the site -->
+        <section id="single">
+            <div class="single-info">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-11 col-md-12 mb-12">
+                            <div class="info-text reveal">
+                                @foreach (var item in Model.blogOthers)
+                               {
+                                   <h2>@item.Title</h2>
+                                <p>@item.DescImgBefore
+                                </p>
+                                <img src="./assets/image/blog/@item.Image" alt="">
+                                <p>@item.DescImgAfter</p>
+                               }
+                                
+                            </div>
+                            <div class="widget">
+                                <div class="daily-label">
+                                   @foreach (var item in Model.widgets)
+                                  {
+                                       <a href="" class="daily-label-link">@item.Daily</a>
+                                  }
+                                </div>
+                            </div>
+                            <div class="author bg-light ">
+                                <div class="author-about  p-4 d-flex">
+                                    <div class="photo">
+                                        <img  src="./assets/image/about/@Model.authorBlog.Image" alt="">
+                                    </div>
+                                    <div class="description">
+                                        <h3>@Model.authorBlog.Title</h3>
+                                        <p>@Model.authorBlog.Desc</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Subscribe section of the site-->
+       @await Component.InvokeAsync("Subscribe")
+    </main>
+
+  <!-- MAIN END -->
+
