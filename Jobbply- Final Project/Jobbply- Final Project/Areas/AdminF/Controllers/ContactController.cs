@@ -1,6 +1,7 @@
 ﻿using Jobbply__Final_Project.DAL;
 using Jobbply__Final_Project.Models;
 using Jobbply__Final_Project.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -61,6 +62,8 @@ namespace Jobbply__Final_Project.Areas.AdminF.Controllers
 
             return RedirectToAction(nameof(Create));
         }
+
+        [Authorize]
         public async Task<IActionResult> Detail(int? id)
         {
             if (id == null) return NotFound();

@@ -327,7 +327,6 @@ C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Projec
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Index.cshtml.g.cs
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\ClientSlider\Update.cshtml.g.cs
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Create.cshtml.g.cs
-C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Detail.cshtml.g.cs
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Index.cshtml.g.cs
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Dashboard\Index.cshtml.g.cs
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\RecentBlog\Create.cshtml.g.cs
@@ -384,3 +383,4 @@ C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Projec
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.dll
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.pdb
 C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Jobbply- Final Project.genruntimeconfig.cache
+C:\Users\nargi\Desktop\FinalProject\Jobbply- Final Project\Jobbply- Final Project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminF\Views\Contact\Detail.cshtml.g.cs
