@@ -42,19 +42,19 @@ namespace Jobbply__Final_Project.Areas.AdminF.Controllers
         public IActionResult Create()
         {
             ViewBag.About = _context.Abouts.FirstOrDefault();
-            ViewBag.contact= _context.Contacts.FirstOrDefault();
+            ViewBag.contact = _context.Contacts.FirstOrDefault();
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(SendMessage sendMessage)
         {
-            ViewBag.About = _context.Abouts.FirstOrDefault(x=>x.Id==3);
+            ViewBag.About = _context.Abouts.FirstOrDefault(x => x.Id == 3);
             ViewBag.contact = _context.Contacts.FirstOrDefault();
             SendMessage db = new SendMessage();
             db.Subject = sendMessage.Subject;
             db.Email = sendMessage.Email;
-            db.Message=sendMessage.Message;
+            db.Message = sendMessage.Message;
             db.Name = sendMessage.Name;
 
             _context.sendMessages.Add(db);
